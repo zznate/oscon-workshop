@@ -1,0 +1,17 @@
+junk.txt
+*.log
+out/
+bin/
+target/
+build/
+.project
+.classpath
+.settings/
+*.iml
+*.ipr
+*.prj
+.DS_Store
+thumbs.db
+*~
+*.swp
+
